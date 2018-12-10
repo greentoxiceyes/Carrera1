@@ -1,0 +1,2 @@
+Nave roja: WASD para moverse y espacio para disparar
+Nave azul:Teclas de direccion para moverse y Mouse izquierdo para disparar
